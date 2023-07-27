@@ -1,0 +1,54 @@
+<html>
+  <head>
+  <title>BASIC HTML TAGS
+    </title>
+  </head>
+  <body>
+    <h1><center>orderd list</h1>
+      <ol>
+        <h2>1.cource name</h2>
+        <ol type="a" start="a">
+        <li>computer engg</li>
+  		  <li>mechanical engg</li>
+            <li>electrical engg</li>
+            <li>civil engg</li>
+  			</ol>
+  <ol>
+    <h2>2.computer engg</h2>
+    <ol type="i">
+    <li>sem1</li>
+    <li>sem2</li>
+    <li>sem3</li>
+    <li>sem4</li>
+    
+    
+    </ol>
+      
+  <ol>
+    <h2>3.sem1</h2>
+    <ol type="1" start="3">
+  <li>co</li>
+    <li>maths</li>
+    <li>psp</li>
+    <li>web</li>
+    
+  </ol>
+    <ol><h2>4.web</h2>
+    <ul>
+     <li>sweb browse and </li>
+    <li>skil</li>
+    <li>logic</li>
+    <li>knwoldge</li>
+    
+    
+    
+    
+    </ul>
+  <p>iam the gratest homw inshs
+  
+  </body>
+  
+  
+  
+  
+  </html>
